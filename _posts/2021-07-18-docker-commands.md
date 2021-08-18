@@ -6,73 +6,94 @@
 >> To build images from Dockerfile
 
 ```sh
-- docker build -t temp-ubuntu .  
+docker build -t temp-ubuntu .  
 ```
 
 >> To list docker images
 
 ```sh
-- docker images 
+docker images 
 ```
 
 >> To remove an images from local registry
 
 ```sh
-- docker rmi temp-ubuntu:version-1.0 
+docker rmi temp-ubuntu:version-1.0 
 ```
 
 >> To list all the containers
 
 ```sh
-- docker ps -a 
+docker ps -a 
 ```
 
 >> To run a container.
 
 ```sh
-- docker run -d tmp-ubuntu 
+docker run -d tmp-ubuntu 
 ```
+
 >> To pause a container
+
 ```sh
-- docker pause container_id 
+docker pause container_id 
 ```
+
 >> To un-suspends all processes in the specified containers
+
 ```sh
-- docker unpause 
+docker unpause 
 ```
+
 >> To restart the container
+
 ```sh
-- docker restart container_id 
+docker restart container_id 
 ```
+
 >> To stop a container
+
 ```sh
-- docker stop container_id 
+docker stop container_id 
 ```
+
 >> To remove a container
+
 ```sh
-- docker rm container_id 
+docker rm container_id 
 ```
+
 >> To download an image from the docker hub.
+
 ```sh
-- docker pull ubuntu 
+docker pull ubuntu 
 ```
+
 >> To list the images 
+
 ```sh
-- docker image list 
+docker image list 
 ```
->> To start the container if you haven't downloaded the image the docker will do it at this time.
+
+>> To start the container, if you haven't downloaded the image then the docker will do it at this time.
+
 ```sh
 docker run ubuntu:latest 
 ```
+
 >> This command will map to a port using -p option and run in background with the option -d.
+
 ```sh
 docker run -p 8080:80 -d nginx:latest 
 ```
+
 >> To remove the container forcefully
+
 ```sh
 docker container rm -f container_name 
 ```
 >> To remove docker images
+
 ```sh
 docker image rm nginx:latest 
 ```

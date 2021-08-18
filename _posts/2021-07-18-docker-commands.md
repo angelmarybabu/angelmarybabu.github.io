@@ -34,11 +34,11 @@
 ```
 >> To pause a container
 ```sh
-- docker pause container_id >> To pause a container
+- docker pause container_id 
 ```
 >> To un-suspends all processes in the specified containers
 ```sh
-- docker unpause >> To un-suspends all processes in the specified containers
+- docker unpause 
 ```
 >> To restart the container
 ```sh
@@ -50,9 +50,9 @@
 ```
 >> To remove a container
 ```sh
-- docker rm container_id >> To remove
+- docker rm container_id 
 ```
->> to download an image from the docker hub.
+>> To download an image from the docker hub.
 ```sh
 - docker pull ubuntu 
 ```

@@ -1,4 +1,17 @@
-# How to install and configure Prometheus as wella s Grafana for an EC2 instance?
+---
+layout: post
+title: How to install and configure Prometheus as well as Grafana for an EC2 instance?
+author: Angel Mary Babu
+date: 2020-05-20 11:00:00 +0800
+categories: [AWS]
+tags: [AWS, devops, ]
+math: true
+mermaid: true
+description: Install and configure Prometheus
+
+---
+
+# How to install and configure Prometheus as well as Grafana for an EC2 instance?
 
 
 Prometheus is one of the widely accepted open source monitoring tools and it takes metrics from the client machine using the node exporter. It displays them using Grafana which gives more visibility and customization..

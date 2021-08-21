@@ -19,7 +19,7 @@ Prometheus is one of the widely accepted open source monitoring tools and it tak
 
 ## Installation
 
-![PROM](https://github.com/angelmarybabu/angelmarybabu.github.io/blob/master/assets/media/prometheus.png)
+
 
 Now we have a basic understanding of Prometheus and Grafana. So let’s start to set up in an EC2 instance. Here I am taking an Ubuntu 20 server as a log server. 
 

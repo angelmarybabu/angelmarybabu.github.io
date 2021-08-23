@@ -11,7 +11,7 @@ description: Github Actions Self Runner in EKS
 
 ---
 
-# Github Actions Self Runner in EKS
+Let's create an EKS cluster,
 
 ##### Create EKS using AWS CLI
 

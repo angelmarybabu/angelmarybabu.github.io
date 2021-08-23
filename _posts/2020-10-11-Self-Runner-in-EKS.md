@@ -1,3 +1,16 @@
+---
+layout: post
+title: Github Actions Self Runner in EKS
+author: Angel Mary Babu
+date: 2020-10-11 11:00:00 +0800
+categories: [AWS]
+tags: [AWS, devops, ]
+math: true
+mermaid: true
+description: Github Actions Self Runner in EKS
+
+---
+
 # Github Actions Self Runner in EKS
 
 ##### Create EKS using AWS CLI

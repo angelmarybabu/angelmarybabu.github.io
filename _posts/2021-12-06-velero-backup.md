@@ -186,7 +186,7 @@ Let’s delete the ‘angel’ namespace to simulate a disaster
 ```bash
 kubectl delete namespace angel
 ```
-Restore harshal namespace
+Restore angel namespace
 restore:
 Run the velero restore command from the backup created. It may take a couple of minutes to restore the namespace.
 ```bash

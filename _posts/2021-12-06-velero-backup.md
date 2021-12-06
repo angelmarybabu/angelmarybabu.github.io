@@ -138,7 +138,7 @@ Example
 velero install \
     --provider aws \
     --plugins velero/velero-plugin-for-aws:v1.3.0 \
-    --bucket cyberauctions-eks-backups \
+    --bucket eks-backups \
     --backup-location-config region=us-west-2 \
     --snapshot-location-config region=us-west-2 \
     --secret-file ./credentials-velero
@@ -199,7 +199,7 @@ Verify if deployments, replica sets, services, and pods are restored.
 ###### To schedule,
 
 ```bash
-velero schedule create backup-smartrouter --schedule="05 23 * * *" --include-namespaces smartrouter
+velero schedule create backup-sample --schedule="05 23 * * *" --include-namespaces sample
 ```
 
 That's it!

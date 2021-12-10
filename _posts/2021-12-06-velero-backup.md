@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Velero Backup for AWS
+title: Velero Backup for EKS
 author: Angel Mary Babu
 date: 2021-12-06 11:00:00 +0800
 categories: [AWS]

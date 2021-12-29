@@ -7,7 +7,7 @@ categories: [AWS]
 tags: [AWS, devops, ]
 math: true
 mermaid: true
-description: Velero Backup for AWS
+description: Tableau Three-Node HA Cluster in AWS
 
 ---
 

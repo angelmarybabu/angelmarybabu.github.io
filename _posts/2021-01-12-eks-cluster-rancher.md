@@ -25,6 +25,9 @@ Rancher is an open source software platform where we can manage the containerize
 1. Login to Rancher Dashboard.
 2. Click on cluster.
 3. Choose the option `Add Cluster`
+<br>
+![image-1](../assets/media/image-1.png)
+<br>
 4. Click on the option `Other Cluster`
 5. Provide a meaningful cluster name.
 6. Click on `Create`

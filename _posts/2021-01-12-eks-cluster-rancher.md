@@ -42,9 +42,6 @@ Rancher is an open source software platform where we can manage the containerize
    kubectl apply -f https://rancher.sample.com/v3/import/g42lk6_c-gfd2j.yaml
    ```
 8. Click on `Done`
-<br>
-![image-1](https://raw.githubusercontent.com/angelmarybabu/angelmarybabu.github.io/master/assets/media/image-4.png)
-<br>
 
 Note: Once we have applied the command, a new namespace will be created on the cluster.
 

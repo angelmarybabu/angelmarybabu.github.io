@@ -29,15 +29,23 @@ Rancher is an open source software platform where we can manage the containerize
 ![image-1](https://raw.githubusercontent.com/angelmarybabu/angelmarybabu.github.io/master/assets/media/image-1.png)
 <br>
 4. Click on the option `Other Cluster`
+<br>
+![image-2](https://raw.githubusercontent.com/angelmarybabu/angelmarybabu.github.io/master/assets/media/image-2.png)
+<br>
 5. Provide a meaningful cluster name.
 6. Click on `Create`
+<br>
+![image-1](https://raw.githubusercontent.com/angelmarybabu/angelmarybabu.github.io/master/assets/media/image-3.png)
+<br>
 7. Apply the given command on the EKS cluster via CLI.
 
    ```
    kubectl apply -f https://rancher.sample.com/v3/import/g42lk6_c-gfd2j.yaml
    ```
 8. Click on `Done`
-
+<br>
+![image-1](https://raw.githubusercontent.com/angelmarybabu/angelmarybabu.github.io/master/assets/media/image-4.png)
+<br>
 
 Note: Once we have applied the command, a new namespace will be created on the cluster.
 

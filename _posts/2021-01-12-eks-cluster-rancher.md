@@ -11,7 +11,6 @@ description: How to add an EKS cluster in Rancher?
 comments: true
 ---
 
-# How to add an EKS cluster in Rancher
 
 Rancher is an open source software platform where we can manage the containerized environments. It helps to create and manage kubernetes clusters via Rancher. Also, we can import already existing cluster to Rancher to manage and configure.
 

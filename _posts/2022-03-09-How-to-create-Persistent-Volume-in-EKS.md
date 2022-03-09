@@ -1,3 +1,15 @@
+---
+layout: post
+title: How to create Persistent Volume in EKS?
+author: Angel Mary Babu
+date: 2022-03-09 11:00:00 +0800
+categories: [AWS]
+tags: [AWS, devops, ]
+math: true
+mermaid: true
+description: How to create Persistent Volume in EKS?
+
+---
 #### Prerequisite
 * You should have a EKS cluster configured
 * Kubectl command line tool should be available

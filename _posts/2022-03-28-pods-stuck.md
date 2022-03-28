@@ -4,7 +4,7 @@ title: Pods stuck in ContainerCreating status -  failed to assign an IP address 
 author: Angel Mary Babu
 date: 2022-03-28 11:00:00 +0800
 categories: [AWS]
-tags: [AWS, devops, ]
+tags: [AWS, devops ]
 math: true
 mermaid: true
 description: Pods stuck in ContainerCreating status -  failed to assign an IP address to the container

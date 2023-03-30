@@ -12,7 +12,6 @@ description: Pods stuck in ContainerCreating status -  failed to assign an IP ad
 ---
 
 
-# Pods stuck in ContainerCreating status -  failed to assign an IP address to the container  
 
 In this blog, I would like to describe a situation where we faced an issue that the Pods are stuck in ContainerCreating state after the deployment in an EKS environment and How I resolved the issue. 
 
